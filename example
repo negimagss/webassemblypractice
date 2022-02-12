@@ -1,0 +1,2 @@
+#!/bin/bash
+wasirun /Users/negimags/Documents/wasm/example.wasm "$@"
